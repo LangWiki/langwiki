@@ -1,5 +1,8 @@
 # Langwiki 软件项目（大部分为开源）
 
+## 语言维基平台
+https://langwiki.org
+
 ## 汉字古今中外读音查询、汉字-中古音转码、日文转假名、谚文转汉谚文等
 https://langwiki.org/tools/dict
 
